@@ -1,6 +1,6 @@
 # STM32F4xx_LVGL
 
-checkout branch to change code project with lvgl version 7 or 8
+##代码工程在其它分支下
 
 IDE: EIDE(vscode插件)
 
