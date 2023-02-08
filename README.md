@@ -1,6 +1,6 @@
 # STM32F4xx_LVGL
 
-##代码工程在其它分支下
+## 代码工程在其它分支下
 
 IDE: EIDE(vscode插件)
 
