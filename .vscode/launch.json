@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "cwd": "${workspaceRoot}",
+            "type": "cortex-debug",
+            "request": "launch",
+            "name": "cortex-debug launch",
+            "servertype": "jlink",
+            "interface": "swd",
+            "executable": "out\\Release\\STM32F4xx_Lvglv8.elf",
+            "runToMain": true,
+            "svdFile": ".\\pack\\Keil\\STM32F4xx_DFP.2.14.0\\CMSIS\\SVD\\STM32F40x.svd",
+            "device": "STM32F407ZG"
+        }
+    ]
+}
