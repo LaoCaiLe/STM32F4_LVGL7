@@ -14,4 +14,3 @@ IDE: EIDE(vscode插件)
 
 
 ![Build Status](https://img-blog.csdnimg.cn/d5d09fc8779e4a15b3322a75f72d7274.jpeg)
-![Build Status](https://img-blog.csdnimg.cn/7a3d1428f0e84cc48605a14efedc2e87.jpeg)
